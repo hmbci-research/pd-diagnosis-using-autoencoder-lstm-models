@@ -33,7 +33,7 @@ The primary goal of this project is to automatically identify Parkinson’s Dise
 2. **Split the subjects** as follows:
    - **80% Train**, **20% Test**
    - Then split the **Train** set again:
-     - **80% Training**, **20% Validation**
+     - **80% Train**, **20% Validation**
 
 This results in a **Train / Validation / Test** partitioning at the subject level.
 
